@@ -1,10 +1,10 @@
 # Machine Learning Assignment
 
 **Name:** S.M. Nabiul Islam  
-**Student ID:** 0112230261  
 **Course:** Machine Learning  
-**Trimester:** 10
 
+---
+*Readme is generated using AI*
 ---
 
 ## 📌 Objective
