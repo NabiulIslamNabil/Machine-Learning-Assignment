@@ -17,7 +17,7 @@ This assignment explores fundamental and advanced machine learning techniques, c
 
 ```
 Machine-Learning-Assignment/
-├── 0112230261.ipynb          # Main Jupyter notebook with all implementations
+├── ML_Assignment.ipynb       # Main Jupyter notebook with all implementations
 ├── README.md                 # Project documentation
 └── data/
     └── FashionMNIST/         # Fashion-MNIST dataset (auto-downloaded)
@@ -169,7 +169,7 @@ Machine-Learning-Assignment/
    ```
 3. **Open the notebook:**
    ```bash
-   jupyter notebook 0112230261.ipynb
+   jupyter notebook ML_Assignment.ipynb
    ```
 4. **Run all cells** sequentially (Fashion-MNIST will be auto-downloaded)
 
